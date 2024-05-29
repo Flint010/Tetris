@@ -1,6 +1,6 @@
 **A simple Tetris game written using the SFML framework**
 
-I'm using vcpkg to install SFML lib
+To install the SFML library I use vcpkg
 
 In vcpkg directory:
 ```
